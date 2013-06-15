@@ -1,0 +1,26 @@
+{
+  "name": "bower-s3",
+  "version": "0.0.1",
+  "description": "Install bower packages directly to Amazon S3 buckets.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scottcorgan/bower-s3.git"
+  },
+  "keywords": [
+    "amazon",
+    "s3",
+    "bower",
+    "stream",
+    "package",
+    "css",
+    ""
+  ],
+  "author": "Scott Corgan",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "741f942699793609eb8d9b3392797794cb0d599b"
+}
