@@ -4,8 +4,7 @@
   "description": "Install bower packages directly to Amazon S3 buckets.",
   "main": "bower-s3.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node bower-s3"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",

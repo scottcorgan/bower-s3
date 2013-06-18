@@ -28,6 +28,15 @@ bowerS3.install(['jquery'], function (err) {
 });
 ```
 
+## Options
+
+* **key** (required) - AWS security credential key
+* **secret** (required) - AWS security credential secret
+* **bucket** (required) - AWS S3 bucket you want the bower files uploaded to
+* **componentDirectory** (optional) - The root directory in the bucket for all the Bower packages. By Bower's default, it is ` componenents `
+* **region** (optional) - Region your S3 bucket is located in. Default is ` US_EAST_1 `
+
+
 ## Todo
 
 * Provide a streaming interface as well as callback
