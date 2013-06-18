@@ -1,6 +1,6 @@
 # bower-s3
 
-Install bower packages directly to s3 buckets.
+Install [Bower](http://bower.io/) packages directly to s3 buckets.
 
 ## Install
 
