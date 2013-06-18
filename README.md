@@ -39,6 +39,7 @@ bowerS3.install(['jquery'], function (err) {
 
 ## Todo
 
+* Add support for 'onProgress'
 * Provide a streaming interface as well as callback
 * Find a way to stream straight form Bower to S3. Currently we download the files and stream them to S3
 
