@@ -1,6 +1,6 @@
 {
   "name": "bower-s3",
-  "version": "0.0.1",
+  "version": "0.3.0",
   "description": "Install bower packages directly to Amazon S3 buckets.",
   "main": "bower-s3.js",
   "scripts": {
@@ -28,18 +28,9 @@
     "bower": "~0.9.2",
     "hat": "0.0.3",
     "fs-extra": "~0.6.1",
-    "fstream": "~0.1.22",
-    "knox": "~0.8.3",
-    "node-s3": "~0.1.1",
-    "directory-stream": "~0.1.1",
-    "event-stream": "~3.0.15",
-    "glob": "~3.2.1",
-    "wrench": "~1.5.1",
     "async": "~0.2.9",
-    "awssum": "~1.0.0",
-    "awssum-amazon": "~1.0.2",
     "awssum-amazon-s3": "~1.2.4",
     "through": "~2.3.4",
-    "walk": "~2.2.1"
+    "stream-dir": "~0.1.0"
   }
 }
