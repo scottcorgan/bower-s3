@@ -4,9 +4,7 @@ Install [Bower](http://bower.io/) packages directly to s3 buckets.
 
 ## Install
 
-```
-npm install bower-s3 --save
-```
+[![NPM](https://nodei.co/npm/bower-s3.png)](https://nodei.co/npm/bower-s3/)
 
 ## Usage
 
